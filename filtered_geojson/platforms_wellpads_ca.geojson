@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 2549, "MD_Country": "Canada", "MD_Source_Date": "", "MD_Source": "http://www.industryabout.com/world-fossil-fuels-energy-map", "Onshore_Offshore": "Offshore", "Capacity": null, "Operator": " Terra Nova FPSO", "Installation_Date": "2002", "Facility_Name": "72", "Status": null, "Type": " Oil Platform", "Commodity": " Crude Oil", "MD_Fkey": "424", "Spat_Ranks": "5.0; 4.0; 5.0", "Temp_Ranks": "4.0; 4.0; 4.0", "Sour_Ranks": "3.0; 4.0; 3.0", "MD_Region": "N. and C. America", "MD_Source_Data_Quality": 3.3, "MD_Temporal_Data_Quality": 4.0, "MD_Spatial_Data_Quality": 4.7, "NumberSources": 3 }, "geometry": { "type": "Point", "coordinates": [ -5396707.019992019981146, 5856797.80292430985719 ] } }
+]
+}

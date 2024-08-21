@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 873, "MD_Country": "Russian Federation", "MD_Source_Date": "", "MD_Source": "http://www.industryabout.com/world-fossil-fuels-energy-map", "Onshore_Offshore": "Onshore", "Capacity": null, "Operator": " Gazprom Dobycha Astrakhan LLC", "Installation_Date": "1986", "Facility_Name": "308", "Status": null, "Type": " Gas Processing Plant", "Commodity": " ", "MD_Fkey": "424", "Spat_Ranks": "5.0; 4.0; 5.0", "Temp_Ranks": "4.0; 4.0; 4.0", "Sour_Ranks": "3.0; 4.0; 3.0", "MD_Region": "Europe", "MD_Source_Data_Quality": 3.3, "MD_Temporal_Data_Quality": 4.0, "MD_Spatial_Data_Quality": 4.7, "NumberSources": 3 }, "geometry": { "type": "Point", "coordinates": [ 5356524.58002969995141, 5904505.586660579778254 ] } }
+]
+}
